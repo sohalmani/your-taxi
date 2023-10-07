@@ -385,7 +385,7 @@ if(isset($_POST['submit']))           //if upload btn is pressed
     
              <div class="row">
                 <div class="col-lg-12" >
-                    &copy;  2017 | Design by: <a href="#" style="color:#fff;"  target="_blank">Navbro</a>
+                    &copy;  2017 | Design by: <a href="#" style="color:#fff;"  target="_blank">Mani Sohal</a>
                 </div>
         </div>
         </div>

@@ -271,7 +271,7 @@ include("connection/connect.php");
 					<div class="copy">
 						<div class="st1">
 						<div class="brand">Tour<span class="color1">T</span>axi </div>
-						&copy; 2017	| <a href="#">Privacy Policy</a> </div> Website designed by <a href="#" rel="nofollow">Navbro</a>
+						&copy; 2017	| <a href="#">Privacy Policy</a> </div> Website designed by <a href="#" rel="nofollow">Mani Sohal</a>
 					</div>
 				</div>
 				<div class="clear"></div>

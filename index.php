@@ -188,7 +188,7 @@ echo  	'</div>';
 			</div>
 			
 <!--==============================Content=================================-->
-			<div class="content"><div class="ic">design by Navbro :@2017-18</div>
+			<div class="content"><div class="ic">design by Mani Sohal :@2017-18</div>
 				<div class="container_12">
 					<div class="grid_5">
 						<h3>Booking Form</h3>
@@ -289,7 +289,7 @@ echo  	'</div>';
 					<div class="copy">
 						<div class="st1">
 						<div class="brand">Tour<span class="color1">T</span>axi </div>
-						&copy; 2017| <a href="#">Privacy Policy</a> </div> Website designed by <a href="#" rel="nofollow">NavBro</a>
+						&copy; 2017| <a href="#">Privacy Policy</a> </div> Website designed by <a href="#" rel="nofollow">Mani Sohal</a>
 					</div>
 				</div>
 				<div class="clear"></div>
